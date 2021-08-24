@@ -14,4 +14,6 @@
 https://www.freesion.com/article/37461287842/
 
 最后运行 quick_start.py 文件即可
+### debug
+在运行过程中若出现421状态码，手动打开浏览器通过验证码即可
 
